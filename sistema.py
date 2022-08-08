@@ -1,6 +1,6 @@
 #Creation and Implementation
 from contextlib import nullcontext
-import test_ordinamento
+from test_ordinamento import *
 
 print("abceddesdfsda")
 lstnumeri = []
